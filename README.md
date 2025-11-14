@@ -1,5 +1,9 @@
 # Links for "Modernizing a 17th Century Italian-English Dictionary" .NET Conf 2025 Presentation
 
+## Watch the session on YouTube
+
+- ["Modernizing a 17th Century Italian-English Dictionary" on .NET Conf 2025 Playlist](https://www.youtube.com/watch?v=kNPTDlxEA-Y&list=PLdo4fOcmZ0oXtIlvq1tuORUtZqVG-HdCt&index=47&pp=iAQB0gcJCQMKAYcqIYzv)
+
 ## Site links
 
 - Website: [https://florio.sebbs.au](https://florio.sebbs.au)
@@ -22,3 +26,11 @@
 
 - GitHub: [https://github.com/Sebbs128](https://github.com/Sebbs128)
 - Mastodon: [@sebbs@dotnet.social](https://dotnet.social/@sebbs)
+
+## Session Feedback
+
+I'd love to hear your feedback!
+
+[Feedback on Sessionize](https://szfb.me/r54ggM)
+
+![QR Code linking to the Sessionize feedback page](modernizing-a-17th-century-italian-english-diction_sebbens_1015856_feedback-code.png)
